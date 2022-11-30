@@ -800,6 +800,7 @@ blockquote p {
     padding: 1rem;
     position: relative;
     float: right;
+    margin-bottom:1rem;
     margin-right: 1rem;
     z-index: 10;
   }
